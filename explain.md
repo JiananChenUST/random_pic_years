@@ -31,10 +31,16 @@ right column: the xs_cond calculate by our equation.
 ### condensation rate  of water vapor:   qt_cond
 
 
-1 qt_evac: blak contour lines
-2 qt_evac: red contour lines
-3 qt_cond: gree contour lines
-4 qt_subl: gree contour lines
+1. qt_evac: blak contour lines
+2. qt_evac: red contour lines
+3. qt_cond: gree contour lines
+
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qt_evar_cond_evac_interp.png)
+
+1. qt_evac: blak contour lines
+2. qt_evac: red contour lines
+3. qt_cond: gree contour lines
+4. qt_subl: gree contour lines
+
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qt_evar_evac_cond_subl.png)
