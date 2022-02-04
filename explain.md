@@ -20,7 +20,7 @@ But when we filter the qvb_cond where the the vectical motion is downward. the c
 2. qvb_cond considering sk 
 3. cond_xs: condesation based on our equation.
 
-The three condensation are similar in maginutude.  Note the qvb_cond not only consider the negative value of qvb_mp, but also filter the points with downward velocity!
+The three condensation are similar in maginutude.  Note the qvb_cond not only consider the negative value of qvb_mp, but also filter the points with negative vertical velocity!
 
 left column: the qt_cond is denoted by the black contour lines. the qvb condensation considering Sk is shaded.
 
