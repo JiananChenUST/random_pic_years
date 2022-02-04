@@ -16,7 +16,9 @@ But when we filter the qvb_cond where the the vectical motion is downward. the c
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_weighted.png)
 
 ## Other condensation rate 
-
+1. qt_cond
+2. qvb_cond considering sk 
+3. cond_xs: condesation based on our equation.
 
 
 left column: the qt_cond is denoted by the black contour lines. the qvb condensation considering Sk is shaded.
