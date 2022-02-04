@@ -28,6 +28,8 @@ right column: the xs_cond calculate by our equation.
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_weighted_and_Xs_and_contour.png)
 
+## Rainfall pattern
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/rain_rate_distribution.png)
 
 ## qt plots 
 
@@ -49,5 +51,7 @@ right column: the xs_cond calculate by our equation.
 2. qt_evac: red contour lines
 3. qt_cond: gree contour lines
 4. qt_subl: yellow contour lines
+
+
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qt_evar_evac_cond_subl.png)
