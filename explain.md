@@ -21,4 +21,4 @@ left column: the qt_cond is denoted by the black contour lines. the qvb condensa
 
 right column: the xs_cond calculate by our equation.
 
-https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_weighted_and_Xs_and_contour.png
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_weighted_and_Xs_and_contour.png)
