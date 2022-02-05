@@ -14,8 +14,7 @@ The left column shows two contours.
 
 
 ## Reason 2
-20 and 40 contours levels are provided hers
-More contour levels, more details
+20, 40, 60, 80 contours levels are provided here.
 
 ### The below is the 20 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_20_levels.png)
@@ -24,3 +23,8 @@ More contour levels, more details
 ### The below is the 40 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_40_levels.png)
 
+### The below is the 60 contour lvls 
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_60_levels.png)
+
+### The below is the 80 contour lvls 
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_80_levels.png)
