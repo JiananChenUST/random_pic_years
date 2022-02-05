@@ -24,8 +24,3 @@ More contour levels, more details
 ### The below is the 40 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_40_levels.png)
 
-## Reason 3
-
-Not really a reason but provide the snapshot of the qvb_cond weighted by the sk and qvb_cond not weighted by the sk 
-
-![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_weighted_or_not_in_t_series.png)
