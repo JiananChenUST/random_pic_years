@@ -18,13 +18,15 @@ The left column shows two contours.
 
 ### The below is the 20 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_20_levels.png)
-
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_20_levels_2.png)
 
 ### The below is the 40 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_40_levels.png)
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_40_levels_2.png)
 
 ### The below is the 60 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_60_levels.png)
-
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_60_levels_2.png)
 ### The below is the 80 contour lvls 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_80_levels.png)
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_80_levels_2.png)
