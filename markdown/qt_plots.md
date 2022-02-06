@@ -88,3 +88,9 @@ not clear how to connect the condensation rates with rain rate. different conden
 ### Our XS condensation rate sensitivity is smaller compared with qt_cond rate and qvb_cond rate
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_domain_wide.png)
+
+### qt_cond and qt_dep 
+
+qt_cond and qt_dep is better at approximating to the qvb_mp
+
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qt_cond_dep_domainwide.png)
