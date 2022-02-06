@@ -6,7 +6,7 @@
 >    The right column is the figure I often show to you. The condensation rate in the y (cross mountain) direction. The left column shows two contours. 
 >    1. qvb_cond_sk means qvb_cond filtered by sk (dash). 
 >    2. xs_cond_sk means xs_cond filtered by sk (solid). 
-![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_xs_cond_detail.png)
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qvb_cond_detail_contour_20_levels_2.png)
 
 
 I made mistakes here, the qvb_cond doesn't need to be fitered by the w when we apply sk to the condensation rate. The difference between the left column and right column is due to the way I deal with the positive qvb_mp values( evaporation )
