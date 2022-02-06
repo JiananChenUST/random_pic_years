@@ -84,3 +84,7 @@ not clear how to connect the condensation rates with rain rate. different conden
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/how_to_select_pe_region.png)
 
+## Domain wide condensation comparison based on different condensation rate types
+### Our XS condensation rate sensitivity is smaller compared with qt_cond rate and qvb_cond rate
+
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_rate_domainwide.png)
