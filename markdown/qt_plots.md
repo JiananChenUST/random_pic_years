@@ -65,10 +65,13 @@ To better explain the reason why nanmean is wrong, the figure below instead of t
 ### Different cond rate types in the same warming scenario
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_compare1.png)
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_compare1_dep.png)
 
 #### different warming scenarios for the same cond rate type
 
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_compare2.png)
+
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_compare2_dep.png)
 
 #### condensation change not normalize by temperature
 
