@@ -27,7 +27,7 @@ To better explain the reason why nanmean is wrong, the figure below instead of t
 
 ## Qt tendencies
 
-### the unit of below contour plots is mm per second
+### the unit of below contour plots is mm per second,note I didn't interp these on height levels just on the model levels. The interpolation on height leveles can be soon implemented if needed.
 ### qt_cond
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/qt_cond_no_weighted.png)
 
