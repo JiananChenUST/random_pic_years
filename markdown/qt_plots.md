@@ -88,7 +88,7 @@ To better explain the reason why nanmean is wrong, the figure below instead of t
 ![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_increasement_compare_normalize.png)
 
 #### qt_dep+ qt_cond
-![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_increasement_compare_normalize.png)
+![test](https://github.com/JiananChenUST/random_pic_years/blob/main/cond_increasement_compare_normalize_dep.png)
 
 ## The difficulties in defining the area used to calculate the Precipitation efficiency
 
